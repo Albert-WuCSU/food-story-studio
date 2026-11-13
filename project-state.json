@@ -1,0 +1,12 @@
+{
+  "project": "食有故事",
+  "date": "2026-11-13",
+  "stage": "interactive_prototype_ready",
+  "delivery": "single_offline_html",
+  "model_mode": "local_rules_and_manual_doubao_handoff",
+  "target_user": "食品小商家，尚未验证",
+  "real_user_tests": 0,
+  "real_doubao_outputs": 0,
+  "next_action": "使用一个有权使用的食品商品图和真实事实，在豆包完成故事/背景并回传，然后邀请小样本用户体验",
+  "legacy_pilot": "../pilot-01 保留不修改，暂不作为当前demo实验"
+}
