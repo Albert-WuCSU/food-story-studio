@@ -6,6 +6,8 @@
 
 ## 快速体验
 
+[在线体验](https://albert-wucsu.github.io/food-story-studio/) · [源代码](https://github.com/Albert-WuCSU/food-story-studio)
+
 下载或克隆仓库，用较新的 Chrome / Edge 打开 `index.html`，点击「载入虚构示例」。单个 HTML 即可运行，无需账号、API Key 或安装依赖。
 
 1. 输入商品名称、商家确认的事实、目标人群与场景。
